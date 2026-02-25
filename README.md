@@ -1,2 +1,2 @@
 # trabalho-puc-bd1
-Sistema de gestão de concessionŕia.
+Sistema de gestão de concessionárias.
